@@ -1,0 +1,30 @@
+{
+  "beer with vodka": {
+    "compounds": [
+      "vodka",
+      "beer"
+    ],
+    "in_menu": false
+  },
+  "martini with lime": {
+    "compounds": [
+      "martini",
+      "lime"
+    ],
+    "in_menu": false
+  },
+  "red bool with vodka": {
+    "compounds": [
+      "vodka",
+      "red bool"
+    ],
+    "in_menu": false
+  },
+  "double vodka": {
+    "compounds": [
+      "vodka",
+      "vodka"
+    ],
+    "in_menu": false
+  }
+}
